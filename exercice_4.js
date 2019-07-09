@@ -1,0 +1,1 @@
+process.argv.slice(2).forEach((val) => {console.log(val.substring(2))});
